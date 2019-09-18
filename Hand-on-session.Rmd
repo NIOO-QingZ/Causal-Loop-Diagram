@@ -15,8 +15,14 @@ Feedback loop to avoid unintended consequence of your decisions.
 - Group model building (book with exercise)
 
 ```{r}
-
+## compute tables of correlations
+library(LoopAnalyst)
+data(cm.levins)
+cem <- make.cem(cm.levins)
+cem.corr(cem)
 
 ```
 
+Conclusion:
+Another more understandable way of presenting the relationships between mutiple variables.
 
