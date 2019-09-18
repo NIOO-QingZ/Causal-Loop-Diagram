@@ -1,0 +1,22 @@
+---
+title: "Causal-Loop-Diagram"
+author: "Andrijana Horvat"
+date: "18/09/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Feedback loop to avoid unintended consequence of your decisions.
+
+- Example CLD - work productivity
+- Group model building (book with exercise)
+
+```{r}
+
+
+```
+
+
